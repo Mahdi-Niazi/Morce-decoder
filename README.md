@@ -53,9 +53,8 @@
 
 > Key features of the application include.
 
-- **[Morse Code Decoder]**
-- **[]**
-- **[]**
+- **[Decode Morse Codes]**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
