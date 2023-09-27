@@ -28,3 +28,4 @@ end
 morse_message = "-- -.--   -. .- -- ."
 decoded_message = MorseCodeDecoder.decode(morse_message)
 puts decoded_message  # Output: "MY NAME"
+puts MorseCodeDecoder.decode('.-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...')
